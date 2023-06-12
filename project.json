@@ -6,7 +6,12 @@
   "toc": "true",
   "bibliography": "src/bibliography.bib",
   "sources": [
-    "src/00-doc.md"
+    "src/00-doc.md",
+    "src/01-studija-3.md",
+    "src/02-studija-4.md",
+    "src/03-studija-5.md",
+    "src/04-studija-9.md",
+    "src/05-studija-10.md"
   ],
   "assets": [
     "assets",
